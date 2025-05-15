@@ -2,3 +2,12 @@
 // Override Variables
 // 覆盖变量
 // ==============================
+@font-face {
+    font-family: 'Balooda2';
+    src: url('/fonts/balooda2.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  $global-font-family: 'Balooda2', sans-serif;
+  
