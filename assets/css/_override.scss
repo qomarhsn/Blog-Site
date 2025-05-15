@@ -2,13 +2,8 @@
 // Override Variables
 // 覆盖变量
 // ==============================
-@font-face {
-  font-family: 'Balooda2';
-  src: url('/fonts/balooda2.woff2') format('woff2');
-  font-weight: 100 900; // Variable font weight range
-  font-style: normal;
-  font-display: swap;
-}
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Da+2:wght@400;500;600;700&display=swap');
 
-// Set the global font variable (FixIt uses this)
-$global-font-family: 'Balooda2';
+// Apply "Baloo Da 2" as the global font
+$global-font-family: 'Baloo Da 2', $global-font-family;
+

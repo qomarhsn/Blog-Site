@@ -628,11 +628,11 @@ disableThemeInject = false
 
     [page.comment.giscus]
       enable = false
-      repo = ""
-      repoId = ""
-      category = ""
-      categoryId = ""
-      mapping = ""
+      repo = "qomarhsn/Blog-Site"
+      repoId = "R_kgDOOqaDYQ"
+      category = "General"
+      categoryId = "DIC_kwDOOqaDYc4CqLK0"
+      mapping = "pathname"
       origin = "https://giscus.app "
       strict = "0"
       term = ""
