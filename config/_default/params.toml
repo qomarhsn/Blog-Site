@@ -27,9 +27,9 @@ disableThemeInject = false
   issueTpl = "title=[BUG]%20{title}&body=|Field|Value|%0A|-|-|%0A|Title|{title}|%0A|URL|{URL}|%0A|Filename|{sourceURL}|"
 
 [app]
-  title = "Hugo FixIt Blog"
+  title = "Qomarul Hasan"
   noFavicon = false
-  svgFavicon = ""
+  svgFavicon = "/favicon.svg"
   iconColor = "#5bbad5"
   tileColor = "#da532c"
 
