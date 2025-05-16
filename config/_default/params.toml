@@ -1,5 +1,5 @@
 version = "0.3.X"
-description = "Muslim | Ahlus Sunnah wal Jama'ah | Hanafi | Linux & Tech Enthusiast"
+description = "Explore technologies with a Linux & tech enthusiast. This blog offers programming tutorials, open‑source project insights, and practical tech tips."
 keywords = ["Qomarul Hasan", "qomarhsn"]
 defaultTheme = "dark"
 fingerprint = ""
@@ -158,7 +158,7 @@ disableThemeInject = false
     avatarURL = "/profile.webp"
     avatarMenu = ""
     title = "Qomarul Hasan"
-    subtitle = "I'm a Muslim, following the path of Ahlus Sunnah wal Jama'ah, rooted in the Hanafi school of thought. I have a strong passion for Linux and technology, always exploring and sharing knowledge through my projects and blog."
+    subtitle = "Full-time learner and part-time Linux & tech enthusiast, currently mastering CSE fundamentals. On this blog, I share my journey, insights, and hands-on tips as I explore programming and technologies that make life easier."
     typeit = false
     social = true
     disclaimer = ""
