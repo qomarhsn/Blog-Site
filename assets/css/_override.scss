@@ -192,6 +192,7 @@ article.single.summary {
   
           &:hover {
             background-color: #1a73e8; /* darker hover */
+            color: #000000 !important;
           }
         }
   
@@ -342,4 +343,10 @@ article.single.summary {
       padding-left: 2rem !important;
     }
   }
+  
+
+  .post-footer .post-tags i:first-child {
+    display: none;
+  }
+
   
