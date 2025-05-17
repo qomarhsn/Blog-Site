@@ -9,7 +9,7 @@ enableEmoji = true
 enableGitInfo = true
 relativeURLs = false
 buildDrafts = false
-summaryLength = 70
+summaryLength = 60
 
 ignoreLogs = [
   "error-get-remote-image",
