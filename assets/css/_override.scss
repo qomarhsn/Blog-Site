@@ -350,3 +350,61 @@ article.single.summary {
   }
 
   
+  .home .home-profile .home-avatar img {
+    width: 135px !important;
+    height: 135px;
+  }
+  
+  .home .home-profile .home-title {
+    font-size: 1.6rem !important;
+  }
+  
+  .home .home-profile .home-subtitle {
+    font-size: 1.13rem !important;
+  }
+  
+  .home.posts .summary .single-title {
+    font-size: 1.5rem !important;
+  }
+  
+  article.single.summary .content {
+    font-size: 1.05rem !important;
+  }
+  
+
+
+.single .content {
+  font-size: 1.05rem;
+}
+
+
+.single .single-title {
+  font-size: 1.8rem;
+}
+
+
+
+.single .post-footer .post-info .post-info-line .post-info-license {
+  display: none;
+}
+
+.single .post-footer .post-info .post-info-line .post-info-md {
+  display: none;
+}
+
+
+.post-info {
+  display: flex;
+  justify-content: space-between; /* push first left, second right */
+  align-items: center;
+  width: 100%; /* make sure it takes full container width */
+}
+
+.post-info-line {
+  display: contents; /* keep children direct flex items */
+}
+
+
+.single .post-footer .post-nav {
+  display: none !important;
+}
