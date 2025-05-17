@@ -11,8 +11,11 @@
       height: 150px;
       object-fit: cover;
       border-radius: 50%;
+      border: 2px solid #ccc;
+      display: inline-block;
       margin-bottom: 1rem;
     }
+    
   
     .about-name {
       font-size: 2rem;
