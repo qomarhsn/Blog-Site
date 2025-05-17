@@ -21,7 +21,7 @@
   parent = ""
   pre = ""
   post = ""
-  name = "Project"
+  name = "Projects"
   url = "/projects/"
   title = ""
   weight = 2
