@@ -1,5 +1,5 @@
 ---
-title: "সম্পূর্ণ অফলাইনে নিজের ফোন কিংবা পিসিতে এআই ব্যবহার করার পরিপূর্ণ গাইড"
+title: "সম্পূর্ণ অফলাইনে নিজের পিসিতে এআই ব্যবহার করার পরিপূর্ণ গাইড"
 date: 2025-05-21T00:00:00+06:00
 categories:
   - Artificial intelligence
@@ -9,7 +9,6 @@ tags:
   - Windows
   - MacOS
   - Privacy
-  - Mobile Tips
   - AI
   - Artificial intelligence
   - Technology
@@ -81,7 +80,7 @@ comments: true
 
 আমি টেস্টিং পারপাসে নিচের মডেলটি ডাউনলোড করেছি:
 
-*`DeepSeek-R1-Distill-Qwen-1.5B`
+`DeepSeek-R1-Distill-Qwen-1.5B`
 
 এটি ছোট সাইজের ও দ্রুত লোড হয়, সাধারণ কম্পিউটারেও ভালোভাবে চলে।
 
