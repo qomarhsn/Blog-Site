@@ -1,14 +1,18 @@
 ---
-title: "রুট ছাড়াই ফোন থেকে অপ্রয়োজনীয় সফটওয়্যার আনইনস্টল"
+title: "সম্পূর্ণ অফলাইনে নিজ লোকাল ডিভাইসে (ফোন/পিসি) ব্যবহার করুন এআই"
 date: 2025-05-20T00:00:00+06:00
 categories:
   - Technology
-  - Android
+
 tags:
-  - Android
-  - Bloatware
+  - Linux
+  - Windows
+  - MacOS
   - Privacy
   - Mobile Tips
+  - AI
+  - Artificial Intiligenc
+  - 
 
 resources:
   - name: featured-image
