@@ -19,11 +19,11 @@ comment: false
 
 #### I am a full-time learner and part-time Linux, FOSS, and tech enthusiast.
 
-Currently learning **C programming** and exploring how things work at a lower level.<br>
+Currently, I’m learning **C++** with a focus on mastering **data structures and algorithms (DSA)** to build strong problem-solving skills.<br>
 I enjoy building simple web projects with clean and open tools.<br>
-I write blog posts on this blog, sharing my journey, tips, and thoughts on tech and programming.
+I write blog posts sharing my journey, tips, and thoughts on tech and programming at [qomarhsn.com](https://qomarhsn.com).<br>
 
-- 🧠 I know: `HTML`, `CSS`, `Tailwind CSS`, and basic `JavaScript`
-- 🌱 Learning: **C**, with plans to explore **C++** and **Python**
-- 💻 I use: `Linux` as my OS and `VSCodium` as my code editor
-- 💬 `ping` me about **Linux**, **tech topics**, or **programming**
+* 🧠 I know: `HTML`, `CSS`, `Tailwind CSS`, `basic JavaScript`, and `C`
+* 🌱 Learning: **C++ for DSA**, with plans to **master Python**
+* 💻 I use: `Linux` as my OS and `VSCodium` as my code editor
+* 💬 Ping me about **Linux**, **tech topics**, or **programming**
