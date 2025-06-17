@@ -596,7 +596,7 @@ disableThemeInject = false
       languageCode = ""
 
     [page.comment.telegram]
-      enable = false
+      enable = true
       siteID = "r5pJ6E5F"
       limit = 5
       height = ""
