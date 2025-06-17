@@ -627,19 +627,19 @@ disableThemeInject = false
       katex = false
 
     [page.comment.giscus]
-      enable = false
+      enable = true
       repo = "qomarhsn/Blog-Site"
       repoId = "R_kgDOOqaDYQ"
       category = "General"
       categoryId = "DIC_kwDOOqaDYc4CqLK0"
-      mapping = "pathname"
+      mapping = "url"
       origin = "https://giscus.app "
-      strict = "0"
+      strict = "1"
       term = ""
       reactionsEnabled = "1"
       emitMetadata = "0"
-      inputPosition = "bottom"
-      lang = ""
+      inputPosition = "top"
+      lang = "en"
       lightTheme = "light"
       darkTheme = "dark"
       lazyLoad = true
