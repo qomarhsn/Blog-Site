@@ -627,7 +627,7 @@ disableThemeInject = false
       katex = false
 
     [page.comment.giscus]
-      enable = true
+      enable = false
       repo = "qomarhsn/Blog-Site"
       repoId = "R_kgDOOqaDYQ"
       category = "General"
