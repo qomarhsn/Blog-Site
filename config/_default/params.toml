@@ -5,7 +5,7 @@ defaultTheme = "dark"
 fingerprint = ""
 dateFormat = "2006-01-02"
 images = []
-enablePWA = false
+enablePWA = true
 externalIcon = false
 capitalizeTitles = true
 withSiteTitle = true
@@ -17,7 +17,7 @@ disableThemeInject = false
 [author]
   name = "Qomarul Hasan"
   email = "mail@qomarhsn.com"
-  link = "https://profile.qomarhsn.com"
+  link = "https://qomarhsn.com"
   avatar = "/profile.webp"
 
 [gitInfo]
